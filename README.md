@@ -1,3 +1,3 @@
 # LGO-BatchBALD
 
-This repository contains code to reproduce the experiments in the paper under review introducing LGO-BatchBALD. The code is currently being refactored to move from individual notebooks for each experiment to having a single script, calling code from modules, which runs all of the experiments. The refactor is expected to be done no later than Oct 31.
+By October 31, this repository will contain code to reproduce the experiments in the paper under review introducing LGO-BatchBALD. The code is currently being refactored to move from notebooks to modules and scripts. The current code is not being posted in the meantime due to the content of the notebooks having potentially identifying information about the authors.
