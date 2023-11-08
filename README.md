@@ -1,6 +1,6 @@
 # LGO-BatchBALD
 
-This repository will contains code to reproduce the experiments in the paper under review introducing LGO-BatchBALD. The code was recently refactored and undergoing testing (not core functionality of code but saving of results). Bug fixes and cleaning of code is an ongoing process and will be complete by the time of the camera-ready submission.
+This repository contains code to reproduce the experiments in the paper under review introducing LGO-BatchBALD. The code was recently refactored and undergoing testing (not core functionality of code but saving of results). Minor (as described before) bug fixes and cleaning of code is an ongoing process and will be complete by the time of the camera-ready submission.
 
 ## Requirements
 
